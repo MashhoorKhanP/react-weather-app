@@ -1,0 +1,1 @@
+export const FavIcon = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iosicongallery.com%2Ficons%2Fweather-2021-12-07%2F&psig=AOvVaw0Q7qDJBTq_-cD77iYOIL0S&ust=1707312839755000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiup4_qloQDFQAAAAAdAAAAABAE'

@@ -1,0 +1,11 @@
+.search-input {
+  padding: 5px;
+  margin-top: 25px;
+  outline: none;
+  box-shadow: 10%;
+}
+
+.react-mapbox-ac-suggestion:hover {
+  color: #ffffff;
+  background-color: #a0a0a0;
+}
