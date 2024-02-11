@@ -14,6 +14,7 @@ const AppRouter = () => {
       navigate("/home");
     } else {
       toast.info("Logged out successfully!");
+      navigate('/login');
     }
   }, [currentUser]);
   return (

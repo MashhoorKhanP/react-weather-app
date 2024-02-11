@@ -16,4 +16,5 @@ export const googleRegister = async(user,token,dispatch) => {
 
 export const logout = (dispatch) => {
   dispatch({ type: 'UPDATE_USER', payload: null });
+  
 };
